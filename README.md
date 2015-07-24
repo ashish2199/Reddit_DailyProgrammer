@@ -7,6 +7,8 @@ My solutions to challenges on reddit.com/r/dailyprogrammer
 
 [2015-06-22] Challenge #220 [Easy] Mangling sentences
 
+[2015-06-08] Challenge #218 [Easy] Making numbers palindromic
+
 [2/12/2012] Challenge #5 [easy]
 
 [2/12/2012] Challenge #4 [easy]
