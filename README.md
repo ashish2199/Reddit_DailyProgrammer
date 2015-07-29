@@ -5,7 +5,15 @@ My solutions to challenges on reddit.com/r/dailyprogrammer
 
 ## Problems completed so far ##
 
+[2015-07-13] Challenge #223 [Easy] Garland words
+
+[2015-07-06] Challenge #222 [Easy] Balancing Words
+
+[2015-06-29] Challenge #221 [Easy] Word snake
+
 [2015-06-22] Challenge #220 [Easy] Mangling sentences
+
+[2015-06-15] Challenge #218 [Easy] To-do list (Part 1)
 
 [2015-06-08] Challenge #218 [Easy] Making numbers palindromic
 
