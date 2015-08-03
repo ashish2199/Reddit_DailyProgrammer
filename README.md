@@ -1,9 +1,15 @@
 # Reddit_DailyProgrammer
-My solutions to challenges on reddit.com/r/dailyprogrammer
+##My solutions to challenges on reddit.com/r/dailyprogrammer##
 
-----------
 
-## Problems completed so far ##
+
+### Problems completed so far ###
+
+[2015-08-03] Challenge #226 [Easy] Adding fractions
+
+[2015-06-17] Challenge #219 [Intermediate] To-do list (Part 2)
+
+[2015-07-20] Challenge #224 [Easy] Shuffling a List
 
 [2015-07-13] Challenge #223 [Easy] Garland words
 
