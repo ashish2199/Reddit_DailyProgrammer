@@ -5,6 +5,7 @@
 
 | Challenge No. | Name                              | Date       | Category   |
 |---------------|-----------------------------------|------------|------------|
+|#232           |Palindromes                        |2015-09-14  |Easy        |
 |#229           |The Dottie Number                  |2015-08-24  |Easy        |
 |#228           |Letters in Alphabetical Order      |2015-08-17  |Easy        | 
 |#227           |Square Spirals                     |2015-08-10  |Easy        |   
