@@ -13,7 +13,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Challenge_223{
+public class challenge_223{
                             //varargs
     public static void main(String... args){
         Scanner sc = new Scanner(System.in);
@@ -54,9 +54,9 @@ public class Challenge_223{
             }
             System.out.println("The highest degree of garland is "+max);
         } catch (FileNotFoundException ex) {
-            Logger.getLogger(Challenge_223.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(challenge_223.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
-            Logger.getLogger(Challenge_223.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(challenge_223.class.getName()).log(Level.SEVERE, null, ex);
         }
         
     }
