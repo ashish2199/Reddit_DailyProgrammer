@@ -5,6 +5,9 @@
 
 | Challenge No. | Name                              | Date       | Category   |
 |---------------|-----------------------------------|------------|------------|
+|#236           |Random Bag System                  |2015-10-12  |Easy        |
+|#235           |Ruth-Aaron Pairs                   |2015-10-05  |Easy        |
+|#234           |Vampire Numbers                    |2015-09-28  |Easy        |
 |#232           |Palindromes                        |2015-09-14  |Easy        |
 |#229           |The Dottie Number                  |2015-08-24  |Easy        |
 |#228           |Letters in Alphabetical Order      |2015-08-17  |Easy        | 
