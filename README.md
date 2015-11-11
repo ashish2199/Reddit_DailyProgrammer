@@ -5,6 +5,7 @@
 
 | Challenge No. | Name                              | Date       | Category   |
 |---------------|-----------------------------------|------------|------------|
+|#238           |Consonants and Vowels              |2015-10-26  |Easy        |
 |#236           |Random Bag System                  |2015-10-12  |Easy        |
 |#235           |Ruth-Aaron Pairs                   |2015-10-05  |Easy        |
 |#234           |Vampire Numbers                    |2015-09-28  |Easy        |
