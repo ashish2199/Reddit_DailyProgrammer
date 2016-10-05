@@ -1,22 +1,42 @@
 /*
 [2015-06-29] Challenge #221 [Easy] Word snake
 
-Inmput  single line of words (written in ALL CAPS). The last letter of each word 
+Problem single line of words (written in ALL CAPS). The last letter of each word 
         will be the first letter in the next.
-
+Input : SHENANIGANS SALTY YOUNGSTER ROUND DOUBLET TERABYTE ESSENCE
+Output : SHENANIGANS
+          A
+          L
+          T
+          YOUNGSTER
+                  O
+                  U
+                  N
+                  DOUBLET
+                        E
+                        R
+                        A
+                        B
+                        Y
+                        T
+                        ESSENCE
 */
 package easy;
 import java.util.Scanner;
 public class challenge_221{
     public static void main(String args[]){
+        
         Scanner sc = new Scanner(System.in);
         
             String inp = sc.nextLine();
             String words[]=inp.split(" ");
-            System.out.println("inp = "+words);
+            //System.out.println("inp = "+words);
+            
             int space=0;
             System.out.print(""+words[0].charAt(0));
-            for(int i =0;i<words.length;i++){
+            
+            for(int i=0; i<words.length; i++){
+                
                 if(i%2==0){
                     //print horizontally
                     
