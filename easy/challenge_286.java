@@ -1,7 +1,10 @@
 package easy;
 
 import java.util.Scanner;
-
+/*
+Use long as datatype and Long.parseLong() for the large numeric values
+Dont always go ahead with the first approach that comes into your mind
+*/
 public class challenge_286 {
     
     /*    
@@ -44,7 +47,7 @@ public class challenge_286 {
         }
     }
     
-    //O()
+    //O(N)
     public static String checkReverseFact(long n){
         int i = 2;
         String s="";
