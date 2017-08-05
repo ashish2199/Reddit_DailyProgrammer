@@ -2,7 +2,15 @@ package easy;
 
 import java.util.Arrays;
 import java.util.Scanner;
+/*
+[2015-06-22] Challenge #220 [Easy] Mangling sentences
+take a sentence and mangle it up by sorting the letters in each word. So, for 
+instance, if you take the word "hello" and sort the letters in it, you get "ehllo".
+If you take the two words "hello world", and sort the letters in each word, you get "ehllo dlorw".
 
+There are more things between heaven and earth, Horatio, than are dreamt of in your philosophy. 
+Eehrt aer emor ghinst beeentw aeehnv adn aehrt, Ahioort, ahnt aer ademrt fo in oruy hhilooppsy.
+*/
 public class challenge_220{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

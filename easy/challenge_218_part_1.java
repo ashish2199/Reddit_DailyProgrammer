@@ -2,7 +2,14 @@ package easy;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Iterator;
+/*
+[2015-06-15] Challenge #218 [Easy] To-do list (Part 1)
 
+Create a list that should have the following basic functionality
+Add an item to the to-do list
+Delete a selected item from the to-do list
+And obviously, print out the list so I can see what to do!
+*/
 public class challenge_218_part_1{
     public static void main(String args[]){
         

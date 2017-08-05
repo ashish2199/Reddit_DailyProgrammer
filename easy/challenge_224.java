@@ -1,8 +1,14 @@
 package easy;
 import java.util.Random;
 import java.util.Scanner;
+/*
+[2015-07-20] Challenge #224 [Easy] Shuffling a List
+We've had our fair share of sorting algorithms, now let's do a shuffling challenge.
+In this challenge, your challenge is to take a list of inputs and change 
+around the order in random ways. Think about shuffling cards - can your program shuffle cards?
+*/   
 public class challenge_224{
-    
+ 
     public static void main(String... args){
         
         Scanner sc = new Scanner(System.in);
